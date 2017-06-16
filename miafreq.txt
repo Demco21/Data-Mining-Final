@@ -1,0 +1,6 @@
+rover,65
+land,59
+just,24
+car,21
+2017,18
+discovery,19
