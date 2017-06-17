@@ -1,4 +1,4 @@
-#Christopher Snyder, Christian DeMarco, Jonathan Negron
+#Christian DeMarco, Christopher Snyder, Jonathan Negron
 #ICSI431 Data Mining Final Project
  
 import tweepy, sys, json, matplotlib.pyplot as plt
